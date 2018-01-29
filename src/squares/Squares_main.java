@@ -93,7 +93,8 @@ public class Squares_main {
 					pw.print(data[i]);
 					pw.print(",");
 					pw.println();
-				}//pw.print(",");
+				}
+				//pw.print(",");
 				//pw.println();
 			}
 			pw.println();
